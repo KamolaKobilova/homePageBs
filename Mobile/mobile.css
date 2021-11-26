@@ -1,0 +1,8 @@
+@media screen and (max-width:600px){
+    .navbar , section, {
+        width: 100%;
+    }
+    .row{
+        width: 100%;
+    }
+}

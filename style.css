@@ -1,0 +1,122 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(204, 231, 240);
+}
+.bi {
+  font-size: 20px;
+}
+.form-control {
+  width: 300px;
+}
+.section {
+  background-color: #754df8;
+  width: 100%;
+  height: 452px;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.li {
+  list-style: none;
+}
+.row {
+ margin-left: 55px;
+}
+.ul-1 {
+  display: flex;
+  flex-direction: row;
+}
+.li-1 {
+  list-style: none;
+  padding: 5px;
+}
+.bi {
+  color: orange;
+}
+.recom {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  padding: 20px 10px 10px 10px;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.f-item {
+  list-style: none;
+  margin: 5px;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.container2 {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+  height: 100px;
+  background-color: white;
+}
+button {
+  background-color: blueviolet;
+  border-color: blueviolet;
+  color: white;
+}
+.btns {
+  background-color: rgb(241, 236, 236);
+  border-color: rgb(241, 236, 236);
+  border-radius: 50%;
+}
+.bin {
+  color: gray;
+}
+.d-flex img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+.span {
+  margin-top: 25px;
+  background-color: white;
+  height: 15px;
+  width: 10px;
+  border-radius: 50%;
+}
+span {
+  display: block;
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color: rgb(24, 236, 24);
+}
+.card-body img {
+  border-radius: 50%;
+}
+.left-side {
+  margin-top: 500px;
+  width: 1400px;
+  height: 90px;
+  border: 1px solid rgba(0, 0, 0, 0.623);
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  margin: -27px 0 30px 20px;
+}
+.li {
+  margin-right: 20px;
+  list-style: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+

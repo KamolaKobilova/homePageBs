@@ -1,0 +1,130 @@
+.section {
+    margin: 30px 30px 40px 100px;
+    width: 1158px;
+    height: 280px;
+    background-color: lightblue;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: white;
+}
+body {
+    background-color: rgb(215, 232, 238);
+}
+h2, h6 {
+    color: black;
+}
+.img-bg {
+    width: 1158px;
+    height: 140px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border-color: white;
+}
+.button {
+    border: none;
+}
+.btns {
+    border-radius: 50%;
+    width: 40px;
+    margin-right: 10px;
+}
+.nav-item {
+    margin-right: 15px;
+}
+.fl {
+    margin: 10px;
+}
+.fl img {
+    width: 150px;
+    margin-bottom: 70px;
+}
+.pic {
+    margin-top: -50px;
+    margin-left: 30px;
+}
+.pic img {
+    border: 5px solid white;
+}
+.text {
+    margin-top: -85px;
+    margin-left: 193px;
+}
+.bn {
+    margin-top: -20px;
+    margin-right: 20px;
+}
+.d-flex img {
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .btn {
+    background-color: white; 
+    color: blueviolet;
+    border-color: blueviolet;
+  }
+  .left {
+    border-radius: 10px;
+    background-color: white;
+    margin: 50px 0 20px 100px;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 595px;
+    border: 1px solid white;
+}
+.lefts, .li4 {
+     list-style: none; 
+    margin-bottom: 20px;
+}
+
+.bi {
+    color: blueviolet;
+}
+.p {
+    margin: 20px 0 5px 30px;
+}
+.container {
+    margin-top: -140px;
+   width: 850px;
+   height: 600px;
+   border: 1px solid white;
+   background-color: white;
+   position: absolute;
+   top: 560px;
+   left: 400px;
+   border-radius: 10px;
+  }
+  .buttons{
+      background-color: rgb(18, 185, 18);
+      color: white;
+      border-color: rgb(18, 185, 18);
+      border-radius: 10px;
+  }
+  #bn {
+    background-color: red;
+    color: white;
+    border-color: red;
+    border-radius: 10px;
+  }
+  .invoice {
+    margin: 20px 0 5px 30px;
+  } 
+  /* .row{
+      margin-bottom: 20px;
+  } */
+  .left-side {
+    margin-top: 100px;
+    width: 1400px;
+    height: 90px;
+    border: 1px solid rgba(0, 0, 0, 0.623);
+}
+.ul {
+    display: flex;
+    flex-direction: row;
+    margin: -27px 0 30px 20px;
+}
+.li {
+    margin-right: 20px;
+    list-style: none;
+    color: rgba(0, 0, 0, 0.5);
+}

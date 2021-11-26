@@ -1,0 +1,165 @@
+.d-flex img {
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  body {
+    background-color: rgb(216, 229, 233);
+  }
+  .span {
+    margin-top: 25px;
+    background-color: white;
+    height: 15px;
+    width: 10px;
+    border-radius: 50%;
+  }
+  span {
+    display: block;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: rgb(24, 236, 24);
+  }
+  .btns {
+    background-color: rgb(241, 236, 236);
+    border-color: rgb(241, 236, 236);
+    border-radius: 50%;
+  }
+  .bin {
+    color: gray;}
+
+    .button {
+        border: none;
+    }
+    .form-control {
+        width: 300px;
+      }
+      ul {
+        display: flex;
+        flex-direction: row;
+      }
+      .actives {
+        margin-left: 520px;
+      }
+li {
+ list-style: none;
+ margin-right: -550px;
+ color: white;
+}
+.div {
+    width: 100%;
+    height: 170px;
+    background-color: blueviolet;
+    color: white;
+}
+/* .form {
+    width: 700px;
+    height: 100vh;
+    border: 1px solid black;
+} */
+.form-control {
+    margin-left: 5px;
+}
+.container {
+  background-color: white;
+  border: 1px solid white;
+  width: 690px;
+  height: 100vh;
+  border-radius: 10px;
+  position: absolute;
+  top: 280px;
+  left: 150px;
+}
+.active {
+  width: 644px;
+}
+.container2 {
+  background-color: white;
+  border: 1px solid white;
+  width: 690px;
+  height: 600px;
+  border-radius: 10px;
+  position: absolute;
+  top: 1018px;
+  left: 150px;
+}
+
+.ul3 {
+  display: flex;
+  flex-direction: row;
+}
+.li3 {
+  margin-right: 10px;
+}
+.form-check-label {
+  color: black;
+}
+.input-group-text {
+  width: 30px;
+  height: 40px;
+}
+.input-group {
+  margin-top: 30px;
+}
+.row {
+  margin: 10px;
+}
+.ww {
+  margin: 10px;
+}
+.form-check {
+  margin: 10px;
+}
+.bn {
+  margin: 10px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.h2 {
+  margin: 22px 18px 3px 27px;
+}
+ .input-group {
+    margin: 15px;
+    width: 644px;
+}
+.right-col {
+  width: 300px;
+  height: 100vh;
+  border: 1px solid;
+  position: absolute;
+  top: 280px;
+  left: 900px;
+  background-color: white;
+  border-color: white;
+  border-radius: 10px;
+}
+.li2 {
+  color: black;
+  margin-bottom: 10px;
+}
+.ul2 {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+}
+.ever {
+  margin: 10px 10px 10px 25px;
+}
+button {
+  color: blueviolet;
+  background-color: white;
+  border-color: blueviolet;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+.texts {
+  margin: 21px 49px 40px 41px;
+}
+.but {
+  margin: 20px 20px 20px 20px;
+}
+.center {
+  margin: 33px 37px 14px 40px;
+}

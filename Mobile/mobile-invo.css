@@ -1,0 +1,10 @@
+@media screen and (max-width:600px){
+    .navbar {
+        width: 100%;
+    }
+    .section , .b-gr,.img-bg , .left, .container, .left-side{
+        width: 70%;
+        margin: 0%;
+    }
+
+}
